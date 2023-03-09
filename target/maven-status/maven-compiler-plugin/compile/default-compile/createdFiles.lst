@@ -1,0 +1,5 @@
+com\nagarro\userManagement\controller\UserController.class
+com\nagarro\userManagement\UserManagementApplication.class
+com\nagarro\userManagement\entity\User.class
+com\nagarro\userManagement\repository\UserRepository.class
+com\nagarro\userManagement\service\UserService.class
